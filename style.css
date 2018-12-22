@@ -132,7 +132,7 @@ h1 span{
 }
 
 p{
-	font-size:15px;
+	font-size:18px;
 	margin:0 0 20px;
 	color:#333;
 	font-weight:400;
@@ -1427,6 +1427,7 @@ b{
 	font-family: 'Montserrat', sans-serif;
 }
 .service-list .thumb img{
+	width: 100%;
 	display:inline-block;
 	-webkit-border-radius:50%;
 	-moz-border-radius:50%;

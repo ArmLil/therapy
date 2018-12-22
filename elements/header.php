@@ -26,6 +26,7 @@
                     <ul>
                         <li><i class="fas fa-phone-volume"></i> <a href="tel:+71238782899">+7 (926) 926 68 36</a></li>
                         <li><i class="far fa-envelope"></i> <a href="mailto:polina81968@yandex.ru">polina81968@yandex.ru</a></li>
+                        <li>г. Москва</li>
                     </ul>
                 </div>
             </div>

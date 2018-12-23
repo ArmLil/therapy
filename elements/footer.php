@@ -32,7 +32,7 @@
                     <div class="footer-widget">
                         <h2>Контакты</h2>
                         <ul>
-                            <li><i class="far fa-building" aria-hidden="true"></i> г. Москва, Ленина 1 о.11</li>
+                            <li><i class="far fa-building" aria-hidden="true"></i> г. Москва,  ул Марксистская, д 22.</li>
                             <li><i class="fa fa-phone" aria-hidden="true"></i> +7 (926) 926-68-36</li>
                             <li><i class="fas fa-at" aria-hidden="true"></i> polina81968@yandex.ru</li>
                             <li><i class="fab fa-skype" aria-hidden="true"></i> Skype: polina1238111</li>
@@ -42,10 +42,16 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="footer-widget">
                         <h2>Рабочее время</h2>
+
+<!--                        <img src="" alt="" class="img-responsive">-->
                         <ul class="bussiness-hour">
-                            <li>Будни Пн-Пт: <span class="pull-right">9:00 - 18:00</span></li>
-                            <li>Суббота: <span class="pull-right">10:00 - 14:00</span></li>
-                            <li>Воскресенье: <span class="pull-right">12:00 - 18:00</span></li>
+                            <li>Понедельник: <span class="pull-right">10:00 - 16:00</span></li>
+                            <li>Вторник: <span class="pull-right">10:00 - 16:00</span></li>
+                            <li>Среда: <span class="pull-right">10:00 - 16:00</span></li>
+                            <li>Четверг: <span class="pull-right">10:00 - 16:00</span></li>
+                            <li>Пятница: <span class="pull-right">10:00 - 16:00</span></li>
+                            <li>Суббота: <span class="pull-right">10:00 - 16:00</span></li>
+                            <li>Воскресенье: <span class="pull-right">10:00 - 16:00</span></li>
                         </ul>
                     </div>
                 </div>

@@ -1,0 +1,29 @@
+RewriteEngine on
+AddDefaultCharset utf-8
+
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^([^\/]+)/([^\/]+)/([^\/]+)/([^\/]+)(\/|)$  index.php?tab1=$1&tab2=$2&tab3=$3&tab4=$4 [QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^([^\/]+)/([^\/]+)/([^\/]+)(\/|)$  index.php?tab1=$1&tab2=$2&tab3=$3 [QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^([^\/]+)/([^\/]+)(\/|)$  index.php?tab1=$1&tab2=$2 [QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^([^\/]+)(\/|)$  index.php?tab1=$1 [QSA]
+
+
+

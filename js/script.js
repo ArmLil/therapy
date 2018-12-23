@@ -28,7 +28,7 @@ Version      : 1.1
 			var who;
 			if ($(this).hasClass('era')){
 				var elemNumber = $(this).attr('id').substr(-1);
-				if (elemNumber == 0) {
+				if (elemNumber === 0) {
 					who = 100;
 				} else {
 					who = 50;

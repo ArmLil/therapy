@@ -314,6 +314,8 @@
                 <div id="testimonial-carousel" class="carousel slide" data-ride="carousel">
                     <!-- Carousel items -->
                     <div class="carousel-inner">
+
+                      <!-- 1 -->
                         <div class="active item">
                             <div class="testimonial-item text-center">
                                 <i class="fa fa-quote-left"></i>
@@ -327,7 +329,7 @@
                             </div>
                         </div>
 
-
+<!-- 2 -->
                         <div class="item">
                             <div class="testimonial-item text-center">
                                 <i class="fa fa-quote-left"></i>
@@ -338,11 +340,11 @@
                                 <div class="author">
                                     <i class="fas fa-female"></i>
                                 </div>
-                                <div class="designation">Гуляева Наталья 5.09.2002 г.р. ( дочь Гуляевой Галины) <small>Кифосколиоз 2 степени.</small></div>
+                                <div class="designation">Гуляева Наталья 5.09.2002 г.р. ( дочь Гуляевой Галины) <small>Кифосколиоз 2 степени</small></div>
                             </div>
                         </div>
 
-
+<!-- 3 -->
                         <div class="item">
                             <div class="testimonial-item text-center">
                                 <i class="fa fa-quote-left"></i>
@@ -356,7 +358,7 @@
                             </div>
                         </div>
 
-
+<!-- 4 -->
                         <div class="item">
                             <div class="testimonial-item text-center">
                                 <i class="fa fa-quote-left"></i>
@@ -367,12 +369,12 @@
                                 <div class="author">
                                     <i class="fas fa-female"></i>
                                 </div>
-                                <div class="designation">Мефедова Л.В. <small>Артроз правого коленного сустава.</small>
+                                <div class="designation">Мефедова Л.В. <small>Артроз правого коленного сустава</small>
                                 </div>
                             </div>
                         </div>
 
-
+<!-- 5 -->
                         <div class="item">
                             <div class="testimonial-item text-center">
                                 <i class="fa fa-quote-left"></i>
@@ -382,10 +384,180 @@
                                 <div class="author">
                                     <i class="fas fa-female"></i>
                                 </div>
-                                <div class="designation">Сидорова Анна 28 лет  <small>Острая боль в спине.</small></div>
+                                <div class="designation">Сидорова Анна 28 лет  <small>Острая боль в спине</small>
+                                </div>
+                              </div>
+                          </div>
+
+  <!-- 6 -->
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>Курс прошла в августе 2015 года. Были боли в области поясницы,в ногах. За это время прошли боли в ногах. Прошли боли в пояснице, уходит тяжесть ног. Появилась боль в локте, прошла. Давление нормализуется.
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Бодягина А.В.1962 г.р. <small>Боли в области поясницы</small>
+                                </div>
                             </div>
-                        </div>
+                          </div>
+
+                          <!-- 7 -->
+
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                <p>Начала делать процедуры осенью 2014 года. Была в отчаянном положении. Иммунитет на нуле. Совершенно неожиданные ощущения, вся зима прошла в приподнятом настроении. Полина - вы реаниматор. Я уже забыла о простуде, у меня прошла аритмия, мой сколиоз выправился. У меня легкое отношение не только к своим болячкам, но и появилось желание поделиться знаниями и силами со своими друзьями (отношения в семье стали более стабильными). Легкость в теле и в мыслях. Ожидаю от жизни только позитивных событий и вообще скоро весна. Полина. желаю вам совершенствоваться, терпения и здоровья. Молодости со своими пациентами. Всегда.
+                                </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Храмцова Татьяна Петровна 1958 г.р. <small>Низкий иммунитет, аритмия, сколиоз.</small>
+                                </div>
+                            </div>
+                          </div>
+
+                          <!-- 8 -->
+
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>Я начала посещать сеанс массажа лица. Хожу уже второй раз, но такое чувство, что уже была больше. Намного стало легче, комфортно, напряжений нет, усталость сняли. Спасибо, Полина, за все. Одна консультация помогла мне исправить образ жизни и самооценки и любви к себе.<br>15.02.2015
+
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Юсупова Жылдызай 1978 г.р. <small>Усталость, напряженность, низкая самооценка.</small>
+                                </div>
+                            </div>
+                          </div>
+
+                          <!-- 9 -->
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>Массаж воротниковой зоны начала делать по рекомендации врача с сентября 2014 года. Появилась бодрость, ушел хруст. Затем начала делать массаж лица(энергетический) Вообще Блеск! <br> За свою жизнь я делала массаж лица у многих специалистов, но массаж, который делает Полина, исключительный. Хочу попробовать пиявки.
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Серкова Виктория 1957 год рождения <small>Хруст в области шеи.</small>
+                                </div>
+                            </div>
+                          </div>
+
+                          <!-- 10 -->
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>Благодарна судьбе, что поменяли массажиста. Полина не только прекрасный массажист, но и замечательный и уникальный человек, которой я с любовью благодарна, что так теперь прекрасно выгляжу. От ее прикосновений получала и огромное удовольствие и наслаждение. Хочу еще пройти курс, но уже массаж тела.
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Дубинина Людмила 1954 г.р. <small>Омолаживающий массаж</small>
+                                </div>
+                            </div>
+                          </div>
+
+                          <!-- 11 -->
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>Пришла вылечить спину у меня остеохондроз. Мне стало намного лучше. Лечение пиявками было проведено два раза и мне стало лучше.
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Черевкова Виктория 1990 г.р <small>Остеохондроз</small>
+                                </div>
+                            </div>
+                          </div>
+
+
+                          <!-- 12 -->
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>Я очень рада, что судьба свела меня с Полиной. Я пришла попробовать, что это за особая техника массажа и что она может дать, и после первого же сеанса я почувствовала, что мое отношение к миру и мое восприятие мира стало меняться. Сейчас я понимаю, насколько наши встречи влияют на здоровье мое и даже моих близких.
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Щербакова Елена 1954 г.р<small>Получила потрясающий эффект.</small>
+                                </div>
+                            </div>
+                          </div>
+
+
+                          <!-- 13 -->
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>09.03.2015<br>Сразу хочу поблагодарить Полину за ее внимание и заботливое отношение ко мне. Хожу к Полине с 22 ноября на гирудотерапию и массаж, сначала для повышения иммунитета, а потом с больной коленкой. За небольшой период произошли изменения: коленка после травмы была распухшая и болезненной, сейчас опухоль ушла, боль тоже. По совету Полины пользуюсь специальным наколенником. Подтянулась кожа на боках и животе, по совету Полины пользуюсь препаратами компании ИПАР. Пользуюсь меньше месяца, но уже чувствую, что работает.
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Холомцева Валентина 1949 г.р. <small>Гирудотерапия</small>
+                                </div>
+                            </div>
+                          </div>
+
+
+                          <!-- 14 -->
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>Хочу поблагодарить Полину за ее добрые руки и очень внимательное отношение ко мне. Я начала делать сеансы массажа с июня 2014 года. Постепенно стала ощущать себя лучше. С ноября 2014 года мне стали делать пиявки. Почувствовала намного лучше, ушла одышка. У меня бронхиальная астма с обезыствлением. Диагнозов куча. Я очень благодарна Полине за ее нелегкий труд, и благодарна за советы, которые мне помогают в жизни.
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">14.03.2015 Ильина Лидия Петровна 1955 г.р. <small>Бронхиальная астма.</small>
+                                </div>
+                            </div>
+                          </div>
+
+
+                          <!-- 15 -->
+                          <div class="item">
+                            <div class="testimonial-item text-center">
+                                <i class="fa fa-quote-left"></i>
+                                <div class="author-comments">
+                                    <p>Дорогая Полина. Да, Дорогая, я очень благодарна Вам, за ваши руки, за Ваши добрые слова, вы своими руками лечите, омолаживаете лицо человека, добрым словом душу человека. Спасибо Вам, Полина. Врач, вы профессионал своего дела. Дай Бог Вам здоровья, долгих лет жизни. Я узнала от Вас очень много хорошего, смотря как вы ходите, разговариваете, для себя взяла от Вас пример. Спасибо Тебе, Полина, живи долго, помогаешь другим, Всевышний не оставит тебя, поможет тебе. Спасибо Тебе.
+                                    </p>
+                                </div>
+                                <div class="author">
+                                    <i class="fas fa-female"></i>
+                                </div>
+                                <div class="designation">Егельская Надия 1952
+                                  <!-- <small></small> -->
+                                </div>
+                            </div>
+                          </div>
                     </div>
+
                     <!-- Carousel nav -->
                     <a class="control left" href="#testimonial-carousel" data-slide="prev"> <i class="fas fa-arrow-left"></i></a>
                     <a class="control right" href="#testimonial-carousel" data-slide="next"> <i class="fas fa-arrow-right"></i></a>
